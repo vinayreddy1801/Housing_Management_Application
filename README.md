@@ -27,9 +27,15 @@ The **Housing Management Application** is a mobile application developed to mana
 ## **Technologies Used**
 - **Frontend**: Flutter (Dart)
 - **State Management**: Provider
-- **Backend**: REST APIs (if applicable)
-- **Database**: Firebase / SQL
-- **Tools**: Visual Studio Code, Postman (for API testing)
+- **Backend**: REST APIs
+- **Database**:
+  - **H2 Database**: Used as an in-memory database to store and retrieve data during development.
+  - **SQL Queries**: For extended testing of database functionalitity.
+- **Tools**:
+  - **IntelliJ IDEA**: Used for managing the H2 database and backend services.
+  - **Postman**: Utilized for testing and validating REST APIs.
+  - **Visual Studio Code**: Primary IDE for Flutter development.
+
 
 ---
 
