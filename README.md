@@ -48,7 +48,7 @@ Housing_Management_Application/
 ├── README.md              # Documentation of the project
 
 
-
+```
 ## **How to Run the Application**
 
 ### **Prerequisites**
